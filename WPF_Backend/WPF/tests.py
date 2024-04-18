@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "123"
 openai.Model.retrieve("text-davinci-003")
 
 completion = openai.ChatCompletion.create(

@@ -627,7 +627,7 @@ def get_useAge(request):
 
 @require_http_methods(["POST"])
 def hello_gpt(request):
-    openai.api_key = "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"
+    openai.api_key = "123
 
     messageHistory = request.POST.get("messageHistory")
     messageHistory = json.loads(messageHistory)

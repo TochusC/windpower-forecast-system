@@ -1,0 +1,42 @@
+{
+  "name": "wpf_frontend_ts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "child_process": "^1.0.2",
+    "core-js": "^3.8.3",
+    "dayjs": "^1.11.9",
+    "echarts": "^5.4.2",
+    "element-plus": "^2.3.7",
+    "openai": "^3.3.0",
+    "os": "^0.1.2",
+    "os-utils": "^0.0.14",
+    "vue": "^3.2.13",
+    "vue-class-component": "^8.0.0-0",
+    "vue-showdown": "^4.1.1",
+    "webpack": "^5.88.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/eslint-config-typescript": "^9.1.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "typescript": "~4.5.5",
+    "unplugin-auto-import": "^0.16.6",
+    "unplugin-vue-components": "^0.25.1"
+  },
+  "browser": {
+    "child_process": false
+  }
+}

@@ -13,13 +13,12 @@
 
 [![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/TochusC/ai-assistant-teaching-website)
 
-
-[**简体中文**](./README.md)
-
-
 [”中国软件杯“大学生程序设计竞赛](https://www.cnsoftbei.com/)-A04基于龙源风电数据的风电实时预测系统-竞赛作品-国家三等奖
 
+作品演示视频：[2023中国软件杯-A4基于百度飞浆的风电预测系统-答辩概览-国三](https://www.bilibili.com/video/BV1kG411d7Zr/?share_source=copy_web&vd_source=9e3eab19692004623394d513719b1b59)
+
 前端Vue3，后端Django，TCN+LSTM+MLP神经网络使用[PaddlePaddle](https://www.paddlepaddle.org.cn/)深度学习框架搭建。
+
 </div>
 
 ---
